@@ -11,7 +11,10 @@ Features
 
 
 Screenshots
+<div>
 ![news1](https://github.com/yashchavan92284/NewsApp/assets/93502034/9fea480e-3447-4922-b0d4-dddd0e335d71)
+
 ![news2](https://github.com/yashchavan92284/NewsApp/assets/93502034/ec64812e-f0a2-4104-8b23-095733c34745)
 ![news3](https://github.com/yashchavan92284/NewsApp/assets/93502034/d57caa6f-eeb0-4528-b071-5b8354be6566)
 ![news4](https://github.com/yashchavan92284/NewsApp/assets/93502034/a62e228b-95cc-4bd2-b988-8c21c5fcd147)
+</div>
